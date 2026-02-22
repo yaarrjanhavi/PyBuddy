@@ -1,6 +1,6 @@
 # PyBuddy 🐍✨
 
-## Your Friendly Python Coding Companion
+## Your Friendly Python AI Coding Companion
 
 A specialized GPT-2 based conversational AI that exclusively answers Python programming questions through intelligent keyword filtering.
 
