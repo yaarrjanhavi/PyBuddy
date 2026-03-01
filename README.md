@@ -31,7 +31,7 @@ PyBuddy keeps you on track - it only wants to talk about Python, all day, every 
 
 ### Technical Approach
 
-Built with Hugging Face Transformers, the system uses a simple but effective keyword-matching algorithm to filter incoming queries before passing them to the GPT-2 model. While not as sophisticated as a trained classifier, this approach provides fast, reliable filtering with minimal computational overhead.
+Built with Hugging Face Transformers, the system uses a simple but effective keyword-matching algorithm to filter incoming queries before passing them to the GPT-2 model. While not as sophisticated as a trained classifier, this approach provides fast as well as reliable filtering with minimal computational overhead.
 
 ### Why PyBuddy Matters
 
